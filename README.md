@@ -1,4 +1,4 @@
-# Team JJRK - Organ Donation
+# Custom CRUD CMS System
 
 The main objective of this project is to create and maintain our own custom CRUD CMS system for a movie database.
 
